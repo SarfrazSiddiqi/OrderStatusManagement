@@ -74,6 +74,7 @@ body{
 .empty-order {
 	display: block;
 	margin: auto;
+	opacity: 0.8;
 }
 
 /* for small screen */
@@ -88,6 +89,9 @@ body{
 	}
 	.order-id-input-wraper{
 		width: 100% !important;
+	}
+	.empty-order {
+		width: 100%;
 	}
 }
 
